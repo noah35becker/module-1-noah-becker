@@ -12,12 +12,12 @@ This code completes the weekly challenge for Module #1 in Columbia's Coding Boot
 Starter code (initially downloaded [here](https://github.com/coding-boot-camp/urban-octo-telegram)) has been modified with accessibility in mind.
 
 Edits include:
-- Visual reorganization + proper commenting for HTML and CSS
+- Visually reorganizing + adding proper commenting for HTML and CSS
 - Ensuring that HTML and CSS follow customary semantics
 - Removing redundancy from CSS (and, in tandem, slightly retouching HTML where needed)
 - Repairing page links
 - Changing page title
-- Add "alt" attributes to images
+- Adding "alt" attributes to images
 
 Good Git commit practices were observed throughout.
 
